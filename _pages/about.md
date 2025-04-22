@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Yue Ding's academic pages"
 author_profile: true
 redirect_from: 
   - /about/
