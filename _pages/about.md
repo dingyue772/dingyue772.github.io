@@ -1,4 +1,11 @@
-
+---
+permalink: /
+title: "Yue Ding's academic pages"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 👋 About Me
 ======
 I'm Yue Ding, a senior undergraduate student at Harbin Institute of Technology (Weihai), under the supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). 
