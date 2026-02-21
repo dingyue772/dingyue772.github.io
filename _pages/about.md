@@ -27,7 +27,7 @@ Hi there! 👋, I'm Yue Ding(丁悦), the first year Ph.D student at New Laborat
 - [ICLR 26] **[AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395)**  
   Xinlong Chen, **Yue Ding**, Weihong Lin, Jingyun Hua, Linli Yao, Yang Shi, Bozhou Li, Yuanxing Zhang, Qiang Liu, Pengfei Wan, Liang Wang, Tieniu Tan
 
-- [Preprint] **[Realunify: Do unified models truly benefit from unification? A Comprehensive Benchmark](https://arxiv.org/abs/2509.24897)**  
+- [CVPR 26] **[Realunify: Do unified models truly benefit from unification? A Comprehensive Benchmark](https://arxiv.org/abs/2509.24897)**  
   Yang Shi, Yuhao Dong, **Yue Ding**, Yuran Wang, Xuanyu Zhu, Sheng Zhou, Wenting Liu, Haochen Tian, Rundong Wang, Huanqian Wang, Zuyan Liu, Bohan Zeng, Ruizhe Chen, Qixun Wang, Zhuoran Zhang, Xinlong Chen, Chengzhuo Tong, Bozhou Li, Chaoyou Fu, Qiang Liu, Haotian Wang, Wenjing Yang, Yuanxing Zhang, Pengfei Wan, Yi-Fan Zhang, Ziwei Liu
 
 - [ICLR 26] **[Towards Safe Reasoning in Large Reasoning Models via Corrective Intervention](https://arxiv.org/abs/2509.24393)**  
