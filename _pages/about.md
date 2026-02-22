@@ -24,13 +24,13 @@ Hi there! 👋, I'm Yue Ding(丁悦), the first year Ph.D student at New Laborat
 - [Preprint] **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804)**  
   **Yue Ding**<sup>*</sup>, Yiyan Ji<sup>*</sup>, Jungang Li, Xuyang Liu, Xinlong Chen, Junfei Wu, Bozhou Li, Bohan Zeng, Yang Shi, Yushuo Guan, Yuanxing Zhang, Jiaheng Liu, Qiang Liu, Pengfei Wan, Liang Wang
 
-- [ICLR 26] **[AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395)**  
-  Xinlong Chen, **Yue Ding**, Weihong Lin, Jingyun Hua, Linli Yao, Yang Shi, Bozhou Li, Yuanxing Zhang, Qiang Liu, Pengfei Wan, Liang Wang, Tieniu Tan
-
-- [CVPR 26] **[Realunify: Do unified models truly benefit from unification? A Comprehensive Benchmark](https://arxiv.org/abs/2509.24897)**  
+- [CVPR 2026] **[Realunify: Do unified models truly benefit from unification? A Comprehensive Benchmark](https://arxiv.org/abs/2509.24897)**  
   Yang Shi, Yuhao Dong, **Yue Ding**, Yuran Wang, Xuanyu Zhu, Sheng Zhou, Wenting Liu, Haochen Tian, Rundong Wang, Huanqian Wang, Zuyan Liu, Bohan Zeng, Ruizhe Chen, Qixun Wang, Zhuoran Zhang, Xinlong Chen, Chengzhuo Tong, Bozhou Li, Chaoyou Fu, Qiang Liu, Haotian Wang, Wenjing Yang, Yuanxing Zhang, Pengfei Wan, Yi-Fan Zhang, Ziwei Liu
 
-- [ICLR 26] **[Towards Safe Reasoning in Large Reasoning Models via Corrective Intervention](https://arxiv.org/abs/2509.24393)**  
+- [ICLR 2026] **[AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395)**  
+  Xinlong Chen, **Yue Ding**, Weihong Lin, Jingyun Hua, Linli Yao, Yang Shi, Bozhou Li, Yuanxing Zhang, Qiang Liu, Pengfei Wan, Liang Wang, Tieniu Tan
+
+- [ICLR 2026] **[Towards Safe Reasoning in Large Reasoning Models via Corrective Intervention](https://arxiv.org/abs/2509.24393)**  
   Yichi Zhang, **Yue Ding**, Jingwen Yang, Tianwei Luo, Dongbai Li, Ranjie Duan, Qiang Liu, Hang Su, Yinpeng Dong, Jun Zhu
 
 - [Preprint] **[$\text{D}^2$HScore: Reasoning-Aware Hallucination Detection via Semantic Breadth and Depth Analysis in LLMs](https://arxiv.org/abs/2509.11569)**  
