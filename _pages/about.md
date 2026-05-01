@@ -16,12 +16,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! 👋, I'm Yue Ding(丁悦), the first year Ph.D student at New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ) and [Prof. Qiang Liu](https://scholar.google.com/citations?hl=en&user=D-lKLcMAAAAJ). <br> Currently, I am a research intern at Kling Team, Kuaishou Technology, under the guidance of [Yuanxing Zhang](https://scholar.google.com/citations?user=COdftTMAAAAJ&hl=en). <br> Now my research focuses on **Video Understanding** and **audio-visual understanding**.
+# 👨‍🎓 About Me
+
+I am Yue Ding (丁悦), a first-year Ph.D. student at the New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ) and [Prof. Qiang Liu](https://scholar.google.com/citations?hl=en&user=D-lKLcMAAAAJ).
+
+Currently, I am also a research intern at Kling Team, Kuaishou Technology, working with [Yuanxing Zhang](https://scholar.google.com/citations?user=COdftTMAAAAJ&hl=en). My research focuses on **video understanding** and **audio-visual understanding**.
+
+I am always open to research discussions and collaboration opportunities. Feel free to reach out via email: [yueding1011@gmail.com](mailto:yueding1011@gmail.com).
+
+# ✨ News
+
+- [2026.05] 🎉 One paper was accepted to **ICML 2026**.
+- [2026.02] 🎉 One paper was accepted to **CVPR 2026**.
+- [2026.01] 🎉 Two papers were accepted to **ICLR 2026**.
+- [2025.08] 🎉 Two papers were accepted to **EMNLP 2025**.
 
 # 📝 Publications  
 <sup>*</sup> indicates equal contribution.
 
-- [Preprint] **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804)**  
+- [ICML 2026] **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804)**  
   **Yue Ding**<sup>*</sup>, Yiyan Ji<sup>*</sup>, Jungang Li, Xuyang Liu, Xinlong Chen, Junfei Wu, Bozhou Li, Bohan Zeng, Yang Shi, Yushuo Guan, Yuanxing Zhang, Jiaheng Liu, Qiang Liu, Pengfei Wan, Liang Wang
 
 - [CVPR 2026] **[Realunify: Do unified models truly benefit from unification? A Comprehensive Benchmark](https://arxiv.org/abs/2509.24897)**  
